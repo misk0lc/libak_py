@@ -1,0 +1,7 @@
+C:\Users\1tc-gyomih\Documents\GitHub\libak_py\Liba\Liba\bin\Debug\Liba.exe.config
+C:\Users\1tc-gyomih\Documents\GitHub\libak_py\Liba\Liba\bin\Debug\Liba.exe
+C:\Users\1tc-gyomih\Documents\GitHub\libak_py\Liba\Liba\bin\Debug\Liba.pdb
+C:\Users\1tc-gyomih\Documents\GitHub\libak_py\Liba\Liba\obj\Debug\Liba.csproj.AssemblyReference.cache
+C:\Users\1tc-gyomih\Documents\GitHub\libak_py\Liba\Liba\obj\Debug\Liba.csproj.CoreCompileInputs.cache
+C:\Users\1tc-gyomih\Documents\GitHub\libak_py\Liba\Liba\obj\Debug\Liba.exe
+C:\Users\1tc-gyomih\Documents\GitHub\libak_py\Liba\Liba\obj\Debug\Liba.pdb

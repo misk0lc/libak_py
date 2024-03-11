@@ -1,7 +1,7 @@
 LIBÁK
 
 A róka libát lop a faluból. A libák súlyát – pontosabban tömegét – listában adjuk meg. A farkas a dűlőútnál várja a rókát, és a három kilónál nagyobb libákat elveszi – a piciket nagylel�kűen otthagyja a rókának.
-libak = [1,5,2,3,4]
+libak = [1,5,2,3,4]6842adsagjkyd
 
 a. Hány kiló libát ehet meg a róka?
 b. Átlagosan hány kilósak a rókának maradt libák?
